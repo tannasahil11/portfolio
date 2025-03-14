@@ -6,7 +6,7 @@ import stripeLogo from '../assets/stripe.svg';
 function Projects(){
     return(
         <div className="container d-flex flex-column mx-auto align-items-center justify-content-center gap-4 mt-2">
-            <a href='https://www.google.com' className="card bg-black text-white box-shadow p-3 w-75 pointer rounded" style={{ border: '1px solid #fff', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.5)' }}>
+            <a href='https://clone-c2959.web.app/' className="card bg-black text-white box-shadow p-3 w-75 pointer rounded" style={{ border: '1px solid #fff', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.5)' }}>
                 <h4>amazon-clone</h4>
                 <div className="details mt-2">
                     <h5><b>Technologies:</b></h5>
